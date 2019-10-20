@@ -1,0 +1,7 @@
+.yarn-intergrity
+
+.env
+
+dist
+
+node_modules
